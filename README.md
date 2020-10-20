@@ -1,0 +1,2 @@
+# curso_pensamiento_computacional
+Pensamiento Computacional con Python
