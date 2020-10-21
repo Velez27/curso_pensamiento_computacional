@@ -13,6 +13,8 @@ def run():
         
         respuesta = (alto + bajo) / 2
 
+    print(f'La raiz cuadrada de {objetivo} es {respuesta}')
+
 
 if __name__ == "__main__":
     run()
